@@ -1,1 +1,1 @@
-List contents in long format 3-listfiles/
+long format all files inclusive of hidden files
