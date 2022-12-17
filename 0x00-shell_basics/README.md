@@ -1,1 +1,1 @@
-list all files in order including hidden files
+print the file type
