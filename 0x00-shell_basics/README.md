@@ -1,1 +1,1 @@
-delete all emacs files
+create multiple directories
