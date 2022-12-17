@@ -1,1 +1,1 @@
-create multiple directories
+list alpha order separated by commas
